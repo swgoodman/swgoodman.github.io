@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Alright, alright, alright."
-date:       2018-04-27 21:20:20 +0000
+date:       2018-04-27 17:20:21 -0400
 permalink:  alright_alright_alright
 ---
 
@@ -10,15 +10,15 @@ Hi.
 
 My name is Spencer.
 
-I don't know who this blog may reach, but whoever you may be, thank you. Time is, of course, valuable, finite, and fleeting.
+I don't know who this blog may reach, but whoever you may be, thank you. Time is, of course, valuable, finite, and fleeting, and I appreciate you spending yours reading the musings of 24 year old kid, mid career change.
 
-I appreciate you spending yours reading the musings of 24 year old kid, mid career change, coming to you **LIVE** from a small studio apartment in Santa Cruz. I'm writing this from my 'office'; an IKEA Loveseat next to an overstuffed bookcase featuring countless biographies, *two* complete Lord of the Rings sets, and a Dr. Doolittle VHS, among my other treasures.
+I'm coming to you **LIVE** from a small studio apartment in Santa Cruz, California. I'm writing this from my 'office'; an IKEA Loveseat next to an overstuffed bookcase featuring countless biographies, *two* complete Lord of the Rings sets, and a Dr. Doolittle VHS, among other treasures.
 
 "Spencer, how did you get here and why do you have two sets of LOTR?" Good question, insightful reader in the front. 
 
 Life. Is. Crazy. I graduated from the University of Michigan in 2016 with a degree in Economics. I then had a quick stint as the Art Department Assistant on a Netflix show, but eventually landed my dream job in the Music Industry. I helped artists market their tours, albums, and more at a buzzing startup in Los Angeles. It was nothing short of a crash course in marketing, the music industry, and the 'real' world all at once. It was incredible.
 
-To supplement my income I started taking on marketing clients on the side. This work quickly grew and I was soon off running a small digital agency with a friend I had met back in pre-school. We've been running this operation for the past year and I wouldn't trade the experience for the world. 
+To supplement my income I started taking on marketing clients on the side. This work quickly grew and I was soon off building a small digital agency with a friend I had met back in pre-school. We've been running this operation for the past year and I wouldn't trade the experience for the world. 
 
 But marketing is not my calling. 
 
