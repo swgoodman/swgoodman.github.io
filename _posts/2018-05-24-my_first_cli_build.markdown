@@ -28,7 +28,7 @@ Find the latest reviews from Pitchfork.com below:
                        
 Enter the number of an album to see more info or 'exit':
 ```
-The user then inputs which review they would like to investigate and receives the following information:
+The user then inputs which review they would like to investigate and receives the review's score, author, and body:
 
 ```
 --------------------------------------------
