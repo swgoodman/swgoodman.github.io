@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My first CLI build."
-date:       2018-05-25 00:10:11 +0000
+date:       2018-05-24 20:10:12 -0400
 permalink:  my_first_cli_build
 ---
 
@@ -53,4 +53,4 @@ Scraping.
 
 Fashioning a functioning scraper took up most of my time when creating this app. It is the reason I had to switch the basic functionality of my app. I inititally wanted to return the top albums of Pitchfork's "Best of the Year Lists", but the years' CSS  were all labeled differently and it simply was not worth my time to build individual scraping methods for each list.
 
-So I pivoted. After I redirected my efforts to scraping the latest reviews it was smooth sailing and it felt great to finish my first project of the course. Looking forward to the review and getting feedback on how I can make it more efficient and faster. 
+So I pivoted. After I redirected my efforts to scraping the latest reviews it was smooth sailing and it felt great to finish my first project of the course. I'm looking forward to the project review with a technical coach and getting feedback on how I can make my code more efficient. 
