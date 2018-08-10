@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A Beginner's Guide to Ruby on Rails"
-date:       2018-08-09 23:39:54 +0000
+date:       2018-08-09 19:39:56 -0400
 permalink:  a_beginners_guide_to_ruby_on_rails
 ---
 
@@ -9,9 +9,7 @@ permalink:  a_beginners_guide_to_ruby_on_rails
 <img src="https://www.onlinebooksreview.com/uploads/blog_images/2017/08/20_rails_5.png" alt="rails" width="300px"/> 
 
 
-The Rails framework, DHH's beloved brainchild, is expansive. The thought and foresight that went into creating it is simply baffling. I have logged near 50 hours navigating, disassembling, and utilizing the framework, but feel I have only scratched the surface of Rails' capabilities. 
-
-With a healthy introduction to Rails under my belt I decided to create this reference guide to help me, and hopefully others with a basic Rails understanding, better grasp and navigate the powerful Rails framework. Putting this together greatly relied on [Learn.co's](http://learn.co/) incredible curriculum.
+The Rails framework, DHH's beloved brainchild, is expansive. The thought that went into creating it is simply baffling. With a healthy introduction to the framework under my belt I decided to create this reference guide to help me, and hopefully others who have a basic Rails understanding, further grasp and navigate the powerful Rails framework. [Learn.co's](http://learn.co/) incredible curriculum was a great resource when putting this together.
 
 <br>
 ### What is Rails?
