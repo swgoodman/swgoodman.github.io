@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "A Beginner's Guide to Ruby on Rails"
+title:      "Ruby on Rails - A reference."
 date:       2018-08-09 19:39:56 -0400
 permalink:  a_beginners_guide_to_ruby_on_rails
 ---
