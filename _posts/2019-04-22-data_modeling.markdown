@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Data Modeling"
-date:       2019-04-23 00:30:20 +0000
+date:       2019-04-22 20:30:21 -0400
 permalink:  data_modeling
 ---
 
